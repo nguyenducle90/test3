@@ -1,6 +1,3 @@
-pip install streamlit
-pip install networkx
-
 import sklearn
 import os
 import pickle
